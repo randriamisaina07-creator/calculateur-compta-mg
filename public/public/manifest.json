@@ -1,0 +1,13 @@
+{
+  "name": "Calculateur Compta Madagascar",
+  "short_name": "Compta MG",
+  "description": "Simulateur net/brut et Impôt Synthétique selon la loi malgache",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1F3D",
+  "theme_color": "#0F1F3D",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
